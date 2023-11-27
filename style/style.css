@@ -1,0 +1,51 @@
+.img-bg{
+    background-image: url(/images/bg.jpg);
+    background-position: center;
+    
+    background-repeat: no-repeat;
+   
+}
+.img-top{
+    background-image: url(/images/bg.jpg);
+
+}
+img{
+    position: absolute;
+    top: 90px;
+}
+#top{
+    display: flex;
+    margin-left: 7rem;
+}
+.py-6{
+    padding: 100px 0 100px 0 !important;
+}
+.mt-7{
+    margin-top: 250px !important;
+}
+.py-7{
+    padding-top: 100px;
+    padding-bottom: 100px ;
+}
+.px-7{
+    padding-right: 200px !important;
+    padding-left: 200px !important;
+}
+.border{
+    border-style: dashed !important;
+}
+/* footer .img-bg{
+    height: 160vh;
+   
+} */
+.py-8{
+    padding-top: 200px !important;
+    padding-bottom: 200px !important;
+}
+button{
+    border-radius: 20px !important;
+}
+/* font style */
+*{
+    font-family: sans-serif!important;
+}
